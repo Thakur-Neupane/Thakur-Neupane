@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/thakurneupane111" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[thakurneupane.com](https://thakurneupane.com/)" target="_blank">
+  <a href="https://thakurneupane.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
