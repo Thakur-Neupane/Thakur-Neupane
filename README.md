@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thakur-Neupane/Thakur-Neupane" />
 
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" style="width: 100%; height: auto;" />
+    <img src="https://your-image-hosting.com/MyBanner.gif" style="width: 100%; height: auto;" />
 </div>
 
 <h1 align="center">
