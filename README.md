@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thakur-Neupane/Thakur-Neupane" />
 
-![MasterHead](<https://github.com/thakurr001/thakurr001/blob/main/banner%20(2).png>)
+![MasterHead](<https://github.com/Thakur-Neupane/Thakur-Neupane/blob/main/banner%20(2).png>)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thakur+Neupane!;" />
