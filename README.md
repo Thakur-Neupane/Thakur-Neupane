@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thakur-Neupane.Thakur-Neupane" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thakur001.thakur001" />
 
 ![MasterHead](<https://github.com/thakurr001/thakurr001/blob/main/banner%20(2).png>)
 
