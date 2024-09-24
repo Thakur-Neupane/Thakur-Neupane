@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thakur-Neupane/Thakur-Neupane" />
 
-<img src = "https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" >
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" style="width: 100%; max-width: 100%;" >
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thakur+Neupane!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thakur+Neupane!" />
 </h1>
 
 <h3 align="center">A passionate full-stack developer from Australia 🇳🇵</h3>
@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql, docker, aws" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,docker,aws" /><br>
 </div>
 
 <br/>
@@ -48,11 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-
-    
-
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thakur-Neupane/Thakur-Neupane/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -70,5 +66,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
