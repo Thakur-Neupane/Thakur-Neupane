@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 ![MasterHead](<https://github.com/thakurr001/thakurr001/blob/main/banner%20(2).png>)
 
 <h1 align="center">
