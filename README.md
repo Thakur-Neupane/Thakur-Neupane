@@ -47,9 +47,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-    https://raw.githubusercontent.com/your-username/your-repo-name/output/github-contribution-grid-snake.svg
+    
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thakur001/thakur001/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thakur-Neupane/Thakur-Neupane/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
